@@ -1,1 +1,16 @@
-Write your answers here.
+Sonal (9 - 16)
+9. The suit is called a bunny suit. It's designed to keep contaminants off the wafers during chip manufcturing. 
+10. Modem stands for modulator-demodulator. It is a device/program that enables a computer to transmit data over.
+11. a) A bit is a binary digit. It is the smallest incrememnt of data on a computer, and can only hold the values "0"(which means off) and "1"(which means on). 
+	b) There are 8 bits in a byte. 
+	c) There are 2 nibbles in a byte.
+	d) A byte is a group of binary digits operated on as a unit. It is bigger than a bit but smaller than a word.
+	e) A kilobyte is a unit of data equal to 1000 bytes.
+	f) A megabyte is 1000 kilobytes.
+	g) A gigabyte is 1000 megabytes.
+	h) A terabyte is 1000 gigabytes.
+12. We call in the internet. 
+13. It was created in the year 1991. The World Wide Web is older than I am.
+14. The first document posted was the Declaration of Independence.
+15. A USB flash drive is a data storage device. A good use for them would be for transferring a document from one computer to another. 
+16. A standard disk can hold 650-700 megabytes. A portable media player can hold more information. 
