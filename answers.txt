@@ -1,3 +1,13 @@
+Jenny 1-8
+1. input, storage, processing, and output.
+2. A) a typographical device other than a letter or numeral used to signal divisions in text or to replace letters presented vulgar word.
+2. B) There are 4 ways to insert special characters: through the Symbol dialog, using shortcut keys, automatically with AutoCorrect, or by direct keypad entry. to insert the "©" symbol using the shortcut key, hold Alt+Ctrl+C
+3. an exchange of signals between devices in a computer network regulating the transfer of data.
+4. the introductory page of a website, or a web page set as the default or start-up page on a browser. EX. https://sirwilfridlaurierss.ocdsb.ca/
+5. a handle is an abstract reference to a resource.
+6. ENIAC was a product of World War II, used by gunners in the field so they could quickly look up which settings to use with a particular weapon on a particular target under particular conditions
+7. Ada Byron was one of the most picturesque characters in computer history, who  wrote the description of Babbage's Analytical Engine
+8. the wafers that are used at Intel to make computer chips are made of silicon
 
 Sonal (9 - 16)
 9. The suit is called a bunny suit. It's designed to keep contaminants off the wafers during chip manufcturing. 
