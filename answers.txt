@@ -15,3 +15,19 @@ Sonal (9 - 16)
 14. The first document posted was the Declaration of Independence.
 15. A USB flash drive is a data storage device. A good use for them would be for transferring a document from one computer to another. 
 16. A standard disk can hold 650-700 megabytes. A portable media player can hold more information. 
+
+Jo 17 - 25
+
+17. Douglas Engelbart invented the computer mouse.
+18. A computer virus is a piece of code designed to replicate itself to spread across networks to other computers
+	and corrupt their data, files and software.
+19. 3 computer peripherals:
+	Input devices, ex. mouse and keyboard
+	Output devices, ex. monitor and printer
+	Storage devices, ex. hard drive and flash drive
+20. GUI stands for Graphical User Interface
+21. The Dvorak Keyboard was a simplified keyboard made to replace the standard QWERTY design, but failed :(. 
+	One of its advantages is that the layout of the letters allow an easier method of typing with less finger motions.
+22. Marcian Hoff and his team developed the INTEL 4004, the first microprocessor. All computers have a microprocessor a its core.
+23. A gigaflop is a unit of computing speed equal to one billion floating-point operations per second.
+24. A dolphin, as part of poject Delphis.
